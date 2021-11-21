@@ -1,0 +1,25 @@
+.content__container-width{
+    width: 1140px;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 45px;
+    background-color: #F1F1F1;
+    border-radius: 10px;
+  }
+  
+  .content__title{
+    font-weight: bold;
+    font-size: 44px;
+    margin-bottom: 20px;
+   
+  }
+  
+  .content__list{
+    margin-left: -15px;
+  }
+  
+  .content__item:not(:last-child){
+    margin-bottom: 10px;
+  }
+

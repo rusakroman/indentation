@@ -1,0 +1,57 @@
+.last__title{
+    font-weight: 900;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.last__description{
+    margin-bottom: 30px;
+}
+
+.last__description:last-child{
+    margin-bottom: 0;
+}
+
+.recept{
+    display:block;
+    margin: 0 auto 30px;
+    width: 600px;
+    height: 600px;
+}
+
+.container-img{
+    width: 100%;
+    height: 1058px;
+    margin-bottom: 30px;
+}
+
+.methed-img{
+    height: 88px;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.header-img{
+    display: block;
+    width: 806px;
+    height: 475px;
+    margin: 0 auto 30px;
+}
+
+.menuitem-img{
+    display:block;
+    width: 317px;
+    height: 110px;
+    margin: 0 auto 30px;
+}
+
+.lastchild-img{
+    display:block;
+    width: 500px;
+    height: 383px;
+    margin: 0 auto 30px;
+}
+
+.container-width__title{
+    margin-bottom: 20px;
+}

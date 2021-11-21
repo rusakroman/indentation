@@ -1,0 +1,17 @@
+
+.margins__title{
+    font-weight: 900;
+    font-size: 60px;
+    margin-bottom: 30px;
+  }
+  
+  .margins__description{
+    margin-bottom: 30px;
+  }
+
+.content__link{
+  text-decoration: underline;
+  color: #02535F;
+}
+  
+ 

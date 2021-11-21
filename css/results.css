@@ -1,0 +1,7 @@
+.results__list{
+    margin-bottom: 29px;
+}
+
+.results__item::before{
+    content: '—';
+}

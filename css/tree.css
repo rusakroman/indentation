@@ -1,0 +1,57 @@
+.tree__title{
+    font-weight: 900;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.tree__description{
+    margin-bottom: 30px;
+}
+
+.tree__description:last-child{
+    margin-bottom: 0;
+}
+
+.tree__img{
+    height: 537px;
+    margin-bottom: 30px;
+}
+
+.recepts{
+    display: block;
+    width: 600px;
+    height: 450px;
+    margin: 0 auto 30px;
+}
+
+.tree-figure__img{
+    height: 506px;
+    display: block;
+   
+    position: relative;
+}
+
+.important-img{
+    display: block;
+    margin: 0 auto 30px;
+    height: 504px;
+    width: 1022px;
+}
+
+.section-img{
+    display: block;
+    width: 964px;
+    height: 164px;
+    margin: 0 auto 30px;
+}
+
+.tree__figure{
+    margin-bottom: 30px;
+}
+
+.tree-figure__caption{
+    color: #5E5E5E; 
+    border:1px solid black;
+    padding:15px 30px;
+}
+
